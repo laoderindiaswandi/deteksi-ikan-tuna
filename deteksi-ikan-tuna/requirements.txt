@@ -1,0 +1,5 @@
+flask
+numpy<2
+pyyaml==5.1
+gdown
+opencv-python-headless
