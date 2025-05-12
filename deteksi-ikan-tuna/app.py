@@ -11,6 +11,7 @@ from detectron2.data import MetadataCatalog
 from detectron2 import model_zoo
 import gdown
 
+
 # --- Flask setup ---
 app = Flask(__name__)
 os.environ["PYTHONUNBUFFERED"] = "1"
